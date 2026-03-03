@@ -148,18 +148,11 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 
 ### 📊 mis stats
 
-<div align="center">
+![Contribuciones](https://img.shields.io/badge/contribuciones-188-e8927c?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/repositorios-6-d4756a?style=for-the-badge&logo=github&logoColor=white)
+![Desde](https://img.shields.io/badge/en_GitHub_desde-2023-e8a598?style=for-the-badge&logo=github&logoColor=white)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pauladist&show_icons=true&hide_border=true&bg_color=fff9f7&title_color=e8927c&icon_color=f0a8b8&text_color=4a2c1a&ring_color=e8927c"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladist&layout=compact&hide_border=true&bg_color=fff9f7&title_color=e8927c&text_color=4a2c1a"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauladist&hide_border=true&background=fff9f7&ring=e8927c&fire=f0a8b8&currStreakLabel=e8927c&sideLabels=4a2c1a&dates=4a2c1a&sideNums=e8927c&currStreakNum=e8927c"/>
-
-</div>
+![Visitas](https://komarev.com/ghpvc/?username=pauladist&style=for-the-badge&color=e8927c&label=visitas+al+perfil)
 
 ---
 
