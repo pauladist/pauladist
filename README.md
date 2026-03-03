@@ -147,26 +147,11 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="200" style="background:#fdf0ec;border-radius:12px;padding:20px">
-  <h2 style="color:#e8927c;margin:0">188</h2>
-  <p style="color:#9a7060;font-size:12px;margin:4px 0 0;letter-spacing:1px">CONTRIBUCIONES</p>
-</td>
-<td width="16"></td>
-<td align="center" width="200" style="background:#fdf0ec;border-radius:12px;padding:20px">
-  <h2 style="color:#e8927c;margin:0">6</h2>
-  <p style="color:#9a7060;font-size:12px;margin:4px 0 0;letter-spacing:1px">REPOSITORIOS</p>
-</td>
-<td width="16"></td>
-<td align="center" width="200" style="background:#fdf0ec;border-radius:12px;padding:20px">
-  <h2 style="color:#e8927c;margin:0">2023</h2>
-  <p style="color:#9a7060;font-size:12px;margin:4px 0 0;letter-spacing:1px">EN GITHUB DESDE</p>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=pauladist&show_icons=true&hide_border=true&bg_color=fdf0ec&title_color=e8927c&icon_color=e8927c&text_color=4a2c1a&ring_color=e8927c&hide=contribs" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladist&layout=compact&hide_border=true&bg_color=fdf0ec&title_color=e8927c&text_color=4a2c1a" height="150"/>
 
-<br/>
+<br/><br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=pauladist&style=flat-square&color=e8927c&label=visitas+al+perfil)
 
@@ -177,6 +162,11 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 <div align="center">
 
 *¿Querés charlar sobre un proyecto o una oportunidad?*
+**[escribime](mailto:paudistefano03@gmail.com)** · ✉️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8927c,100:f9c5d1&height=80&section=footer" width="100%"/>
+
+</div>o o una oportunidad?*
 **[escribime](mailto:paudistefano03@gmail.com)** · ✉️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8927c,100:f9c5d1&height=80&section=footer" width="100%"/>
