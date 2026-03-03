@@ -141,32 +141,13 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 </tr>
 </table>
 
----
 
-### 📊 mis stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pauladist&show_icons=true&hide_border=true&bg_color=fdf0ec&title_color=e8927c&icon_color=e8927c&text_color=4a2c1a&ring_color=e8927c&hide=contribs" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauladist&layout=compact&hide_border=true&bg_color=fdf0ec&title_color=e8927c&text_color=4a2c1a" height="150"/>
-
-<br/><br/>
-
-![Visitas](https://komarev.com/ghpvc/?username=pauladist&style=flat-square&color=e8927c&label=visitas+al+perfil)
-
-</div>
 
 ---
 
 <div align="center">
 
 *¿Querés charlar sobre un proyecto o una oportunidad?*
-**[escribime](mailto:paudistefano03@gmail.com)** · ✉️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8927c,100:f9c5d1&height=80&section=footer" width="100%"/>
-
-</div>o o una oportunidad?*
 **[escribime](mailto:paudistefano03@gmail.com)** · ✉️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8927c,100:f9c5d1&height=80&section=footer" width="100%"/>
