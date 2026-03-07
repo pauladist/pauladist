@@ -9,7 +9,7 @@
 <br/>
 
 > *Estudiante de Desarrollo de Software de Mendoza. Me gusta que las cosas funcionen bien,*
-> *se vean mejor, y tengan un propósito. Trabajo cómoda entre el frontend, el backend y el mobile.*
+> *se vean mejor, y tengan un propósito.*
 
 <br/>
 
@@ -148,7 +148,7 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 <div align="center">
 
 *¿Querés charlar sobre un proyecto o una oportunidad?*
-**[escribime](mailto:paudistefano03@gmail.com)** · siempre estoy abierta ✉️
+**[escribime](mailto:paudistefano03@gmail.com)** · ✉️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4829a,100:ffc8d8&height=80&section=footer" width="100%"/>
 
