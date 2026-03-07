@@ -141,7 +141,23 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 </tr>
 </table>
 
+---
 
+### 📊 mis stats
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **188** | **6** | **2023** |
+| contribuciones | repositorios | en GitHub desde |
+![Stats](https://github-readme-stats.vercel.app/api?username=pauladist&show_icons=true&hide_border=true&bg_color=fff0f4&title_color=d4829a&icon_color=d4829a&text_color=4a2c1a)
+
+<br/>
+
+![Visitas](https://komarev.com/ghpvc/?username=pauladist&style=flat-square&color=d4829a&label=visitas+al+perfil)
+
+</div>
 
 ---
 
