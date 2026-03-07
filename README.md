@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c5d1,100:e8927c&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8d8,100:d4829a&height=120&section=header&animation=fadeIn" width="100%"/>
 
 # Paula Distefano
 
@@ -9,12 +9,12 @@
 <br/>
 
 > *Estudiante de Desarrollo de Software de Mendoza. Me gusta que las cosas funcionen bien,*
-> *se vean mejor, y tengan un propósito.*
+> *se vean mejor, y tengan un propósito. Trabajo cómoda entre el frontend, el backend y el mobile.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paula--distefano-e8927c?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-distefano)
-[![Email](https://img.shields.io/badge/Email-paudistefano03@gmail.com-e8927c?style=flat-square&logo=gmail&logoColor=white)](mailto:paudistefano03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paula--distefano-d4829a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-distefano)
+[![Email](https://img.shields.io/badge/Email-paudistefano03@gmail.com-d4829a?style=flat-square&logo=gmail&logoColor=white)](mailto:paudistefano03@gmail.com)
 
 </div>
 
@@ -37,58 +37,58 @@
 
 **Lenguajes**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-e8927c?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-d4756a?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-e8a598?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-c96b5a?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-d4829a?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-b8607a?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e8a8bc?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-96445e?style=for-the-badge&logo=dart&logoColor=white)
 
 **Interfaz**
 
-![HTML5](https://img.shields.io/badge/HTML5-e8927c?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-d4756a?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-e8a598?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-c96b5a?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-e8927c?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-d4756a?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-d4829a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-b8607a?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-e8a8bc?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-96445e?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-d4829a?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-b8607a?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-e8927c?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-d4756a?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-e8a598?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-d4829a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-b8607a?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-e8a8bc?style=for-the-badge&logo=spring&logoColor=white)
 
 **Desarrollo móvil**
 
-![Flutter](https://img.shields.io/badge/Flutter-e8927c?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-d4756a?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-d4829a?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-b8607a?style=for-the-badge&logo=dart&logoColor=white)
 
 **Bases de datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-e8927c?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d4756a?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-e8a598?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-c96b5a?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-d4829a?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b8607a?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-e8a8bc?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-96445e?style=for-the-badge&logo=neo4j&logoColor=white)
 
 **BaaS**
 
-![Supabase](https://img.shields.io/badge/Supabase-e8927c?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-d4756a?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-d4829a?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-b8607a?style=for-the-badge&logo=firebase&logoColor=white)
 
 **DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-e8927c?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-d4756a?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-e8a598?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-c96b5a?style=for-the-badge&logo=argo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-d4829a?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-b8607a?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-e8a8bc?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-96445e?style=for-the-badge&logo=argo&logoColor=white)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-e8927c?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-d4756a?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-e8a598?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-c96b5a?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-e8927c?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-d4756a?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-d4829a?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-b8607a?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-e8a8bc?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-96445e?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-d4829a?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-b8607a?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -148,8 +148,8 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 <div align="center">
 
 *¿Querés charlar sobre un proyecto o una oportunidad?*
-**[escribime](mailto:paudistefano03@gmail.com)** · ✉️
+**[escribime](mailto:paudistefano03@gmail.com)** · siempre estoy abierta ✉️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8927c,100:f9c5d1&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4829a,100:ffc8d8&height=80&section=footer" width="100%"/>
 
 </div>
