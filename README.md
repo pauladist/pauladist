@@ -147,10 +147,10 @@ Auth de usuarios, CRUD completo y normalización con Google Books API.
 
 *¿Querés charlar sobre un proyecto o una oportunidad?*
 **[escribime](mailto:paudistefano03@gmail.com)** · ✉️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4829a,100:ffc8d8&height=80&section=footer" width="100%"/>
 <br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=pauladist&style=flat-square&color=d4829a&label=visitas+al+perfil)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4829a,100:ffc8d8&height=80&section=footer" width="100%"/>
 
 </div>
