@@ -26,7 +26,7 @@
 
 - 📍 Mendoza, Argentina
 - 🎓 Tecnicatura en Desarrollo de Software · **UNCuyo** · en curso
-- 🛠️ Construí proyectos con **Flutter, React, Node.js, Python** y más
+- 🛠️ Construí proyectos con **Laravel, Flutter, React, Node.js, Python** y más
 - ☁️ Conocimiento en **AWS, Docker y Kubernetes**
 - 🗣️ Español nativo · Inglés en proceso (A2–B1)
 - ✨ Siempre buscando el equilibrio entre código limpio y buena experiencia de usuario
@@ -37,22 +37,23 @@
 
 **Lenguajes**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4829a?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-b8607a?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-e8a8bc?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-96445e?style=for-the-badge&logo=dart&logoColor=white)
 
-**Interfaz**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-d4829a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-b8607a?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-e8a8bc?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-96445e?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-d4829a?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-b8607a?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 **Backend**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-d4829a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-b8607a?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-e8a8bc?style=for-the-badge&logo=spring&logoColor=white)
@@ -97,6 +98,20 @@
 <table>
 <tr>
 <td width="50%">
+
+**🏥** **[ClinData](https://github.com/yaezl/visor-clindata)**
+
+Sistema web para la gestión y visualización de historiales clínicos.
+Permite consultar información de pacientes y organizar la información clínica de forma clara y estructurada.
+
+`Laravel` `PHP` `Blade` `Bootstrap` `MySQL`
+
+**📋** **[TAHU](https://github.com/lusalvi/lara-collab)**
+
+Plataforma web para la gestión de proyectos y tareas de equipos de trabajo.
+Incluye tableros Kanban, tareas, prioridades, calendario y organización del trabajo por proyectos.
+
+`Laravel` `React` `Inertia.js` `Mantine` `MySQL`
 
 **🏥 [cllinichealth](https://github.com/pauladist/cllinichealth)**
 
